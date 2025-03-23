@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anisha1234-hub
+- 👋 Hi, I'm Anisha shaw
 - 👀 I’m interested in AI-ML
 - 🌱 I’m currently learning openCv
 - 📫 How to reach me shawanisha560@gmail.com
